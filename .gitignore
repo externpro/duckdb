@@ -353,5 +353,10 @@ extension_external
 .pyodide-xbuildenv
 .venv-pyodide
 
+# externpro
+.env
+_bld*/
+docker-compose.override.yml
+
 test/sql/pragma/output.json
 tools/pythonpkg/duckdb_build/
